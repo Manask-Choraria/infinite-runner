@@ -13,7 +13,7 @@ function preload(){
   resetImg = loadImage("Images/reset.png")
   coinSound = loadSound("Images/coinbonus.wav");
   gameOverSound = loadSound("Images/gameOver.wav")
-  resetTap = loadSound("Images/mouseClick.wav")
+  resetTap = loadSound("Images/mouseclick.wav")
   obstacleTouchsound = loadSound("Images/obstacletouching.wav")
 
 
